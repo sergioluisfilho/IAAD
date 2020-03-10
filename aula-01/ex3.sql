@@ -1,0 +1,2 @@
+DROP DATABASE base_vendas;
+COMMIT;
